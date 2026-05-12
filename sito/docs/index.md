@@ -23,14 +23,14 @@ La parte introduttiva copre i primi capitoli del testo di riferimento.
 
 ### Applicazioni
 
-Le applicazioni trattate sono in corso di definizione e seranno scelte sia in base agli interessi dei pertacpianti sia in base alle competenze acquisite nella prima parte del corso. 
+Le applicazioni trattate sono state decise tramite una [indagine](https://forms.office.com/e/hM0dkQ8QyH) tra i partecipanti al corso.
 
 | Data | Aula | Argomento | Materiale didattico |
 |------|------|-----------|---------------------|
 | 13/5 | Γ | Web scraping e interrogazione di API. | [A13] |
-| 20/5 | Γ | Realizzazione di API e servizi REST. |  |
-| 27/5 | 310 | Interazione con formati di office automation. | [A14], [A15], [A17] |
-| 03/6 | Γ | | |
+| 20/5 | Γ | CSV, JSON e Pandas. | [A18] |
+| 27/5 | 310 | SQLite e basi di dati. | [A16] |
+| 03/6 | Γ | Mandare e ricevere email. | [A20] |
 
 [A1]: https://automatetheboringstuff.com/3e/chapter1.html
 [A2]: https://automatetheboringstuff.com/3e/chapter2.html
@@ -42,10 +42,9 @@ Le applicazioni trattate sono in corso di definizione e seranno scelte sia in ba
 [A8]: https://automatetheboringstuff.com/3e/chapter8.html
 [A9]: https://automatetheboringstuff.com/3e/chapter9.html
 [A13]: https://automatetheboringstuff.com/3e/chapter13.html
-[A14]: https://automatetheboringstuff.com/3e/chapter14.html
-[A15]: https://automatetheboringstuff.com/3e/chapter15.html
-[A17]: https://automatetheboringstuff.com/3e/chapter17.html
-
+[A16]: https://automatetheboringstuff.com/3e/chapter16.html
+[A18]: https://automatetheboringstuff.com/3e/chapter18.html
+[A20]: https://automatetheboringstuff.com/3e/chapter20.html
 
 [T3]: https://docs.python.org/3/tutorial/introduction.html
 [T4]: https://docs.python.org/3/tutorial/controlflow.html
